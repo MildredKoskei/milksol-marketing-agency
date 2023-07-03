@@ -35,12 +35,15 @@
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 14%, 98%);
   --black: hsl(0, 0%, 0%);
+  --blue-green: rgb(8, 143, 143);
+  --emerald-green: rgb(80, 200, 120);
+  --aqua: rgb(0, 255, 255);
 
   /**
    * gradient color
    */
 
-  --gradient: linear-gradient(to left top, var(--persian-rose), var(--safety-orange));
+  --gradient: linear-gradient(to left top, var(--blue-green), var(--aqua));
 
   /**
    * typography
